@@ -32,8 +32,8 @@ works well with existing force-approximation cubature methods.
  - [Paper](latent-space-dynamics-for-reduced-deformable-simulation-eurographics-2019-fulton-et-al.pdf)
  - [Paper (low res)](latent-space-dynamics-for-reduced-deformable-simulation-eurographics-2019-compressed-fulton-et-al.pdf)
  - [Video](latent-space-dynamics.mp4)
- - [Slides]()
- - [Code]()
+ - [Slides](https://www.lawsonfulton.com/latent-space-dynamics/slides.pdf)
+ - [Code](https://github.com/lawsonfulton/AutoDef)
 
 <!-- ## Video -->
 
